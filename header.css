@@ -5,4 +5,4 @@ background-image: url(Menu.svg);
 display: inline-block;
 }
 
-.cabecalho {background-color: var (--branco);      }
+.cabecalho { background-color: var(--branco);}
