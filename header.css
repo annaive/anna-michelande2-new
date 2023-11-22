@@ -13,6 +13,8 @@ display: inline-block;
 
 .conteiner { display: flex;
                  align-items: center;}
+   position: relative
+                                      } 
 
 .conteiner__imagem { padding: item;}
 
